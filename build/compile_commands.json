@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/setall.tools/tools-s1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/tools-s1.dir/tools-s1.cpp.o -c /home/denis/setall.tools/tools-s1/tools-s1.cpp",
+  "file": "/home/denis/setall.tools/tools-s1/tools-s1.cpp"
+}
+]

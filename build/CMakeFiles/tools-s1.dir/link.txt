@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtools-s1.a CMakeFiles/tools-s1.dir/tools-s1.cpp.o
+/usr/bin/ranlib libtools-s1.a
